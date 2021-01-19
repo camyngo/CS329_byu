@@ -1,0 +1,45 @@
+/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/bin/javadoc
+@options
+@packages
+-classpath
+'/Users/student/.m2/repository/org/apache/logging/log4j/log4j-slf4j-impl/2.11.1/log4j-slf4j-impl-2.11.1.jar:/Users/student/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/Users/student/.m2/repository/org/apache/logging/log4j/log4j-api/2.11.1/log4j-api-2.11.1.jar'
+-encoding
+'UTF-8'
+-public
+-source
+'8'
+-sourcepath
+'/Users/student/CS329/hw0/hw0-tooling-camy-ngo/hw0-tooling-solution/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/student/CS329/hw0/hw0-tooling-camy-ngo/hw0-tooling-solution/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'hw0-tooling-solution 1.0.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/student/CS329/hw0/hw0-tooling-camy-ngo/hw0-tooling-solution/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'hw0-tooling-solution 1.0.0 API'
+edu.byu.cs329
+/Users/student/.m2/repository/org/apache/logging/log4j/log4j-slf4j-impl/2.11.1/log4j-slf4j-impl-2.11.1.jar = 1611016822845
+/Users/student/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar = 1611016822819
+/Users/student/.m2/repository/org/apache/logging/log4j/log4j-api/2.11.1/log4j-api-2.11.1.jar = 1611016822916
+/Users/student/CS329/hw0/hw0-tooling-camy-ngo/hw0-tooling-solution/src/main/java = 1610922829918
+/Users/student/CS329/hw0/hw0-tooling-camy-ngo/hw0-tooling-solution/target/site/apidocs/constant-values.html = 1611024655274
+/Users/student/CS329/hw0/hw0-tooling-camy-ngo/hw0-tooling-solution/target/site/apidocs/overview-tree.html = 1611024655305
+/Users/student/CS329/hw0/hw0-tooling-camy-ngo/hw0-tooling-solution/target/site/apidocs/index.html = 1611024655328
+/Users/student/CS329/hw0/hw0-tooling-camy-ngo/hw0-tooling-solution/target/site/apidocs/allclasses-noframe.html = 1611024655325
+/Users/student/CS329/hw0/hw0-tooling-camy-ngo/hw0-tooling-solution/target/site/apidocs/index-all.html = 1611024655313
+/Users/student/CS329/hw0/hw0-tooling-camy-ngo/hw0-tooling-solution/target/site/apidocs/deprecated-list.html = 1611024655320
+/Users/student/CS329/hw0/hw0-tooling-camy-ngo/hw0-tooling-solution/target/site/apidocs/script.js = 1611024655352
+/Users/student/CS329/hw0/hw0-tooling-camy-ngo/hw0-tooling-solution/target/site/apidocs/stylesheet.css = 1611024655348
+/Users/student/CS329/hw0/hw0-tooling-camy-ngo/hw0-tooling-solution/target/site/apidocs/help-doc.html = 1611024655342
+/Users/student/CS329/hw0/hw0-tooling-camy-ngo/hw0-tooling-solution/target/site/apidocs/allclasses-frame.html = 1611024655323
+/Users/student/CS329/hw0/hw0-tooling-camy-ngo/hw0-tooling-solution/target/site/apidocs/package-list = 1611024655244
