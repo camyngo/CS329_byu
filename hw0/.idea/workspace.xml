@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d480270-ab26-4a19-bf6f-b56bdd08b73f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hw0-tooling-camy-ngo/hw0-tooling-solution/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/hw0-tooling-camy-ngo/hw0-tooling-solution/target/checkstyle-cachefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw0-tooling-camy-ngo/hw0-tooling-solution/target/checkstyle-result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hw0-tooling-camy-ngo/hw0-tooling-solution/target/checkstyle-result.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw0-tooling-camy-ngo/hw0-tooling-solution/target/classes/edu/byu/cs329/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/hw0-tooling-camy-ngo/hw0-tooling-solution/target/classes/edu/byu/cs329/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw0-tooling-camy-ngo/hw0-tooling-solution/target/classes/edu/byu/cs329/Dijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/hw0-tooling-camy-ngo/hw0-tooling-solution/target/classes/edu/byu/cs329/Dijkstra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw0-tooling-camy-ngo/hw0-tooling-solution/target/classes/edu/byu/cs329/DijkstraMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/hw0-tooling-camy-ngo/hw0-tooling-solution/target/classes/edu/byu/cs329/DijkstraMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw0-tooling-camy-ngo/hw0-tooling-solution/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/hw0-tooling-camy-ngo/hw0-tooling-solution/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hw0-tooling-camy-ngo" />
+  </component>
+  <component name="ProjectId" id="1pYZDOyD9YN6PImSIPcRc0hCl16" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d480270-ab26-4a19-bf6f-b56bdd08b73f" name="Default Changelist" comment="" />
+      <created>1615361864386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615361864386</updated>
+      <workItem from="1615361870244" duration="998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

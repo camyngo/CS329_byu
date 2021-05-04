@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw0/hw0-tooling-camy-ngo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw1-junit-camy-ngo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw2-secification-and-black-box-testing-camyngo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw3-mc-dc-property-based-testing-and-type-proofs-teamcamy-josh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw5-formal-verification-with-dafny-joshhe-camy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw6-weakest-pre-condition-calculus-and-loops-camy-joshhe-lab6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab0-constant-folding-new-camyjosh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab1-control-flow-graphs-and-reaching-definitions-teamcamy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab1-control-flow-graphs-and-reaching-definitions-teamcamy/DOMViewer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab3-type-checking-teamjosh-camy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab4-type-checking-part-2-and-mutation-analysis-camy-josh-1" vcs="Git" />
+  </component>
+</project>
