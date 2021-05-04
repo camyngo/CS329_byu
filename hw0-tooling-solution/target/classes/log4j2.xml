@@ -9,5 +9,8 @@
      <Root level="warn">
        <AppenderRef ref="Console"/>
      </Root>
+     <Root level="trace">
+      <AppenderRef ref="log"/>
+    </Root>
    </Loggers>
 </Configuration>

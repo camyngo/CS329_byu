@@ -1,8 +1,13 @@
 target
+bin
+node_modules
 .devcontainer
 .project
 .settings
 .vscode
 .classpath
 .factorypath
+.project
+.vscode
+.idea
 logs

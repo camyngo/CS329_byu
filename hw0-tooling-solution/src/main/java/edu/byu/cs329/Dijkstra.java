@@ -8,6 +8,10 @@ public class Dijkstra {
     private final int dimension;
     private int[][] l = null;
 
+    /***
+     * Checking all possible data for  Dijkstra
+     * @param g
+     */
     public Dijkstra(final int[][] g) {
         if (g == null) {
             throw new IllegalArgumentException("The graph must be non-null");
@@ -24,6 +28,9 @@ public class Dijkstra {
         graph = g;
     }
 
+    /****
+     * Calculating all possible path
+     */
     private void allShortestPathLengths() {
         final int[][] lengths = new int[graph.length][graph.length];
         initializeL(graph, lengths);
@@ -48,6 +55,12 @@ public class Dijkstra {
         l = lengths;
     }
 
+    /***
+     * Finding the shortest path from all possible paths
+     * @param from
+     * @param to
+     * @return
+     */
     public int shortestPath(final int from, final int to) {
         if (from < 0 || to < 0) {
             throw new IllegalArgumentException("Indices must be nonnegative!");
@@ -61,6 +74,12 @@ public class Dijkstra {
         return l[from][to];
     }
 
+    /****
+     * Calculating the minimum index
+     * @param thisL
+     * @param s
+     * @return
+     */
     static int getMinimumIndex(final int[] thisL, final Set<Integer> s) {
         int u = M;
         final int length = thisL.length;
@@ -75,6 +94,11 @@ public class Dijkstra {
         return u;
     }
 
+    /****
+     * Initialize L graph based on graph
+     * @param graph
+     * @param l
+     */
     private void initializeL(final int[][] graph, final int[][] l) {
         for (int i = 0; i < graph.length; ++i) {
             for (int j = 0; j < graph.length; ++j) {
@@ -87,6 +111,11 @@ public class Dijkstra {
         }
     }
 
+    /**
+     * Conveting to String
+     * @param l
+     * @return
+     */
     public static String tableToString(final int[][] l) {
         final StringBuilder sb = new StringBuilder();
         final String eol = System.getProperty("line.separator");
